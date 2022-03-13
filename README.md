@@ -1,6 +1,16 @@
 # front end weekly
 
 记录一周以来看到的好的文章
+## [第十三期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%89%E6%9C%9F.md)
+1. [100 seconds explain linux directories ](https://www.youtube.com/watch?v=42iQKuQodW4)
+2. [Understanding flex-grow, flex-shrink, and flex-basis
+](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)
+3. [A new year, a new MDN](https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/)
+4. [ts 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
+5. [Purrple Cat](https://www.youtube.com/watch?v=bJUO1WnjXQY)
+6. [Suspense基础](https://www.chakshunyu.com/blog/a-fundamental-guide-to-react-suspense/)
+7. [Explain the First 10 Lines of Twitter’s Source Code to Me](https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/)
+
 ## [第十二期](./docs/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%9C%9F.md)
 1. [JIT 与 AOT](https://github.com/gatsbyjs/gatsby/discussions/34613)
 2. [Parcel CSS](https://blog.logrocket.com/getting-started-parcel-css/)
