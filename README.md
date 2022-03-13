@@ -1,6 +1,20 @@
 # front end weekly
 
-记录一周以来看到的好的文章，每周末更新
+记录一周以来看到的好的文章
+
+## [第三期](./docs/%E7%AC%AC%E4%BA%8C%E6%9C%9F.md)
+1. Remix Technical Explanation
+2. React Conf 2021
+3. Vercel 收购 Turborepo
+4. remix vs rsc(react server component)
+5. React 支持 Web Components
+6. Coding Interview with Dan Abramov
+7. Chalk 5
+8. 你可能需要在git中加入node_modules
+9. xxh
+10. Rough.js
+11. doodle.css
+
 
 ## [第二期](./docs/%E7%AC%AC%E4%BA%8C%E6%9C%9F.md)
 1. 2021 Web Almanac
