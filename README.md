@@ -2,6 +2,21 @@
 
 记录一周以来看到的好的文章
 
+## [第七期](./docs/%E7%AC%AC%E4%B8%83%E6%9C%9F.md)
+1. 2021 JavaScript Rising Stars
+2. string 如何分配内存？用 DevTools 来分析
+3. How Valtio Proxy State Works (Vanilla Part)
+4. monorepo tools
+5. node 2022 年 1 月 10 日安全版本
+6. 0x
+7. SuperTest
+8. Robots Parser
+9. instauto
+10. 为什么 TurboRepo 将成为 2022 年的第一个大趋势
+11. pnpm 6.25
+12. Chrome 98
+13. 从实现原理看低代码
+
 ## [第六期](./docs/%E7%AC%AC%E5%85%AD%E6%9C%9F.md)
 1. Denigma
 2. Lazydocker
