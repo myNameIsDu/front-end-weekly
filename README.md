@@ -1,6 +1,22 @@
 # front end weekly
 
 记录一周以来看到的好的文章
+## [第八期](./docs/%E7%AC%AC%E5%85%AB%E6%9C%9F.md)
+1. webpack-deadcode-plugin
+2. Remix vs. Next.js vs. SvelteKit
+3. CSS in 2022
+4. Double Your React Coding Speed With This Simple Trick
+5. react中的反模式
+6. 好书推荐
+7. Command Line Interface Guidelines
+8. 7 Cheatsheets You Might Wanna Know About
+9. run next and remix on the same server
+10. 赫蹏
+11. 自学cs
+12. import maps 实践
+13. Container Query 补丁
+14. npkill
+
 
 ## [第七期](./docs/%E7%AC%AC%E4%B8%83%E6%9C%9F.md)
 1. 2021 JavaScript Rising Stars
