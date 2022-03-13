@@ -1,6 +1,15 @@
 # front end weekly
 
 记录一周以来看到的好的文章
+## [第十期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
+1. [MDX 2](https://mdxjs.com/blog/v2/)
+2. [What You Should Definitely Look Out For In React In 2022](https://www.chakshunyu.com/blog/what-you-should-definitely-look-out-for-in-react-in-2022/)
+3. [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
+4. [How the Notion API Powers My Blog](https://www.coryetzkorn.com/blog/how-the-notion-api-powers-my-blog)
+5. [sponsor only repositories](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)
+6. [Babel v7.17.0 ](https://babeljs.io/blog/2022/02/02/7.17.0)
+7. [fetch in node](https://github.com/nodejs/node/pull/41749)
+8. [DevTools for Tailwind](https://devtoolsfortailwind.com/)
 ## [第九期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
 1. [浅谈 Node.js 热更新](https://zhuanlan.zhihu.com/p/460359101)
 2. [原作者出局，Faker.js已被社区控制](https://zhuanlan.zhihu.com/p/459346956)
