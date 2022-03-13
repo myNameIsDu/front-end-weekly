@@ -1,6 +1,18 @@
 # front end weekly
 
 记录一周以来看到的好的文章
+## [第九期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
+1. [浅谈 Node.js 热更新](https://zhuanlan.zhihu.com/p/460359101)
+2. [原作者出局，Faker.js已被社区控制](https://zhuanlan.zhihu.com/p/459346956)
+3. [60+ VSCode 插件](https://mp.weixin.qq.com/s/AOCTMItp5l7Hi0QJo0mhqg)
+4. [如何准备 SEE Conf 分享](https://mp.weixin.qq.com/s/3dxFdbMCGXj30UjmYPrmRg)
+5. [remix vs next.js](https://remix.run/blog/remix-vs-next#interruptions)
+6. [webpack支持css](https://github.com/webpack/webpack/issues/14893)
+7. typescript 4.6 beta
+8. [比 Vite 还快的 MFSU](https://github.com/webpack/webpack/issues/14893)
+9. [Umi 4 RC 发布](https://mp.weixin.qq.com/s/PwoD8rvmQpaTlaz5ECkB6w)
+
+
 ## [第八期](./docs/%E7%AC%AC%E5%85%AB%E6%9C%9F.md)
 1. webpack-deadcode-plugin
 2. Remix vs. Next.js vs. SvelteKit
