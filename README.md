@@ -1,6 +1,16 @@
 # front end weekly
 
 记录一周以来看到的好的文章
+## [第十一期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
+1. [git switch -c](https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/)
+2. [chrome 工作原理](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+3. [Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
+4. [JPEG XL、AVIF、WebP 2 · 次世代图片格式评测](https://moonvy.com/blog/post/2022/next-generation-Image-format-2022/)
+5. [Web Components 入门](https://www.abeautifulsite.net/posts/a-web-components-primer/)
+6. [狼叔直播 Reaction《学习指北：Node.js 2022 全解析》](https://juejin.cn/post/7066713847947591687)
+7. [state of js 2021](https://2021.stateofjs.com/zh-Hans/)
+8. [Idea: Flat file system for file-based routing](https://gist.github.com/jamiebuilds/86d467ee4353cb316edce8e69ad19237)
+
 ## [第十期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
 1. [MDX 2](https://mdxjs.com/blog/v2/)
 2. [What You Should Definitely Look Out For In React In 2022](https://www.chakshunyu.com/blog/what-you-should-definitely-look-out-for-in-react-in-2022/)
