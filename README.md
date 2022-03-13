@@ -1,7 +1,17 @@
 # front end weekly
 
 记录一周以来看到的好的文章
-## [第十一期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
+## [第十二期](./docs/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%9C%9F.md)
+1. [JIT 与 AOT](https://github.com/gatsbyjs/gatsby/discussions/34613)
+2. [Parcel CSS](https://blog.logrocket.com/getting-started-parcel-css/)
+3. [github Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+4. [tauri 1.0.0-rc](https://github.com/tauri-apps/tauri)
+5. [HTTP 缓存姿势](https://mp.weixin.qq.com/s/43pa04szJ2zU_IyVP4LraQ)
+6. [chrome devTools 99](https://developer.chrome.com/blog/new-in-devtools-99/)
+7. [ts 中一些特殊的类型处理](https://juejin.cn/post/7066745410194243597)
+8. [gti](https://r-wos.org/hacks/gti)
+
+## [第十一期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%9C%9F.md)
 1. [git switch -c](https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/)
 2. [chrome 工作原理](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 3. [Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
@@ -11,7 +21,7 @@
 7. [state of js 2021](https://2021.stateofjs.com/zh-Hans/)
 8. [Idea: Flat file system for file-based routing](https://gist.github.com/jamiebuilds/86d467ee4353cb316edce8e69ad19237)
 
-## [第十期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
+## [第十期](./docs/%E7%AC%AC%E5%8D%81%E6%9C%9F.md)
 1. [MDX 2](https://mdxjs.com/blog/v2/)
 2. [What You Should Definitely Look Out For In React In 2022](https://www.chakshunyu.com/blog/what-you-should-definitely-look-out-for-in-react-in-2022/)
 3. [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
