@@ -1,6 +1,20 @@
 # front end weekly
 
 记录一周以来看到的好的文章
+## [第十四期](./docs/%E7%AC%AC%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
+1. [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer)
+2. [Building a Debugger: Code Analysis](https://www.nan.fyi/debugger)
+3. [How To Develop A Text Editor For The Web](https://www.smashingmagazine.com/2022/02/develop-text-editor-web/)
+4. [How to read the ECMAScript](https://timothygu.me/es-howto/)
+5. [New CSS Features In 2022](https://www.smashingmagazine.com/2022/03/new-css-features-2022/)
+6. [推荐一个生产环境 debugger 技巧](https://mp.weixin.qq.com/s/YLdHyX0lh123dqHxijlM2w)
+7. [能用 AST 搞明白的正则语法，就不需要看文档](https://juejin.cn/post/7072714295410163720)
+8. [React内部让人迷惑的性能优化策略](https://mp.weixin.qq.com/s/0W75vJ0CXt3JR7ua8ZOuFA)
+9. [chrome 简化 UA ](https://developer.chrome.com/blog/deps-rems-100)
+10. [javascript 类型提案](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
+11. [Headless](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
+12. [Solid.js就是我一直希望React成为的样子](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
+
 ## [第十三期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%89%E6%9C%9F.md)
 1. [100 seconds explain linux directories ](https://www.youtube.com/watch?v=42iQKuQodW4)
 2. [Understanding flex-grow, flex-shrink, and flex-basis
