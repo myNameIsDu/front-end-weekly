@@ -1,6 +1,20 @@
 # front end weekly
 
-记录一周以来看到的好的文章
+记录一周以来的前沿技术新闻看到的好的文章
+
+## [第十五期](./docs/%E7%AC%AC%E5%8D%81%E4%BA%94%E6%9C%9F.md)
+1. [Vue和NuxtLabs核心成员Anthony Fu的开源人生](https://www.bilibili.com/video/BV1eS4y1S7zB)
+2. [Safari 15.4 中的新 WebKit 功能](https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/)
+3. [Mintlify](https://www.mintlify.com/)
+4. [Folio 2019](https://github.com/brunosimon/folio-2019)
+5. [No-JS fingerprinting](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
+6. [volta](https://docs.volta.sh/guide/)
+7. [调试 JavaScript](https://flaviocopes.com/debugging/)
+8. [通过动画可视化数据结构和算法](https://visualgo.net/en)
+9. [prettier 2.6](https://prettier.io/blog/2022/03/16/2.6.0.html)
+10. [愉快的 react 目录结构](https://www.joshwcomeau.com/react/file-structure/)
+11. [Remix Stacks](https://remix.run/blog/remix-stacks)
+
 ## [第十四期](./docs/%E7%AC%AC%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
 1. [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer)
 2. [Building a Debugger: Code Analysis](https://www.nan.fyi/debugger)
