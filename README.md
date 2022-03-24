@@ -2,6 +2,15 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第十六期](./docs/%E7%AC%AC%E5%8D%81%E5%85%AD%E6%9C%9F.md)
+1. [Vercel 支持 pnpm](https://vercel.com/changelog/projects-using-pnpm-can-now-be-deployed-with-zero-configuration)
+2. [Remixing React Router](https://remix.run/blog/remixing-react-router#component-fetching-and-render-fetch-chains)
+3. [rendering on web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web#rehydration)
+4. [Parcel v2.4.0](https://parceljs.org/blog/v2-4-0/)
+5. [CodeSandbox 支持点组件跳转到源码](https://twitter.com/compuives/status/1506307886514769921)
+6. [阿里低代码引擎 LowCodeEngine 正式开源](https://github.com/alibaba/lowcode-engine)
+7. [Motion Developer Tools](https://chrome.google.com/webstore/detail/motion-developer-tools/mnbliiaiiflhmnndmoidhddombbmgcdk/related)
+8. [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
 ## [第十五期](./docs/%E7%AC%AC%E5%8D%81%E4%BA%94%E6%9C%9F.md)
 1. [Vue和NuxtLabs核心成员Anthony Fu的开源人生](https://www.bilibili.com/video/BV1eS4y1S7zB)
 2. [Safari 15.4 中的新 WebKit 功能](https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/)
