@@ -11,6 +11,12 @@
 6. [阿里低代码引擎 LowCodeEngine 正式开源](https://github.com/alibaba/lowcode-engine)
 7. [Motion Developer Tools](https://chrome.google.com/webstore/detail/motion-developer-tools/mnbliiaiiflhmnndmoidhddombbmgcdk/related)
 8. [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
+9. [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+10. [ref代替useMemo和useCallback](https://www.zhenghao.io/posts/memo-or-not)
+11. [JSON 技巧](https://dev.to/siddharthshyniben/5-secret-features-of-json-you-didnt-know-about-5bbg)
+12. [typesVersions](https://antfu.menotes#types-for-sub-modules)
+11. [RFC: Intent to Ship React 18 ](https://github.com/reactjs/rfcs/blob/react-18/text/0000-react-18.md)
+
 ## [第十五期](./docs/%E7%AC%AC%E5%8D%81%E4%BA%94%E6%9C%9F.md)
 1. [Vue和NuxtLabs核心成员Anthony Fu的开源人生](https://www.bilibili.com/video/BV1eS4y1S7zB)
 2. [Safari 15.4 中的新 WebKit 功能](https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/)
