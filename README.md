@@ -1,6 +1,17 @@
 # front end weekly
 
 记录一周以来的前沿技术新闻看到的好的文章
+## [第十七期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%83%E6%9C%9F.md)
+1. [一文颠覆大众对闭包的认知](https://juejin.cn/post/7079995358624874509)
+2. [用typescript从字符串提取params类型](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
+3. [防御性设计和开发](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
+4. [理解css布局算法](https://www.joshwcomeau.com/images/cats.jpg)
+5. [React v18.0](https://reactjs.org/blog/2022/03/29/react-v18.html)
+6. [react-testing-library v13](https://github.com/testing-library/react-testing-library/releases/tag/v13.0.0)
+7. [You Probably Don’t Need act() in Your React Tests](https://javascript.plainenglish.io/you-probably-dont-need-act-in-your-react-tests-2a0bcd2ad65c)
+8. [Chrome 100](https://developer.chrome.com/en/blog/new-in-chrome-100/)
+9. [异步代码 Lint 规则](https://maximorlov.com/linting-rules-for-asynchronous-code-in-javascript/)
+10. [20 个程序员高效贴士](https://medium.com/actiresults/20-productivity-tips-from-developers-to-developers-138f8ec6200c)
 
 ## [第十六期](./docs/%E7%AC%AC%E5%8D%81%E5%85%AD%E6%9C%9F.md)
 1. [Vercel 支持 pnpm](https://vercel.com/changelog/projects-using-pnpm-can-now-be-deployed-with-zero-configuration)
