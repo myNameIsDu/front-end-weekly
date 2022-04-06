@@ -6,7 +6,7 @@
 1. [私有属性的 6 种实现方式](https://mp.weixin.qq.com/s/SusZu6rdVijZ-6seg9oa0Q)
 2. [What's new in ECMAScript 2022](https://pawelgrzybek.com/whats-new-in-ecmascript-2022/)
 3. [ShadowRealms](https://2ality.com/2022/04/shadow-realms.html)
-
+4. [vs code March 2022](https://code.visualstudio.com/updates/v1_66#_languages)
 ## [第十七期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%83%E6%9C%9F.md)
 1. [一文颠覆大众对闭包的认知](https://juejin.cn/post/7079995358624874509)
 2. [用typescript从字符串提取params类型](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
