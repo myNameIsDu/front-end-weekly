@@ -7,6 +7,8 @@
 2. [What's new in ECMAScript 2022](https://pawelgrzybek.com/whats-new-in-ecmascript-2022/)
 3. [ShadowRealms](https://2ality.com/2022/04/shadow-realms.html)
 4. [vs code March 2022](https://code.visualstudio.com/updates/v1_66#_languages)
+5. [pnpm v7 升级经验](https://blog.csdn.net/qq_21567385/article/details/123948061)
+6. [Remix Routes](https://www.smashingmagazine.com/2022/03/remix-routes-demystified/)
 ## [第十七期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%83%E6%9C%9F.md)
 1. [一文颠覆大众对闭包的认知](https://juejin.cn/post/7079995358624874509)
 2. [用typescript从字符串提取params类型](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
