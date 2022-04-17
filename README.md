@@ -2,6 +2,19 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第十九期](./docs/%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
+1. [TypeScript 4.7 beta ](https://mp.weixin.qq.com/s/JrLUIKW0HnOfZu1ROrTsNw)
+2. [Handling date strings in TypeScript](https://blog.logrocket.com/handing-date-strings-typescript/)
+3. [react组合模式](https://www.developerway.com/posts/components-composition-how-to-get-it-right)
+4. [TS实现tokenizer/parser/interpreter](https://github.com/anuraghazra/typelevel-parser)
+5. [bundler-benchmarking](https://github.com/j0sh77/bundler-benchmarking)
+6. [:has](https://matthiasott.com/notes/css-has-a-parent-selector-now)
+7. [useCookie](https://github.com/tylerwolff/useCookie)
+8. [cra v5.0.1](https://github.com/facebook/create-react-app/releases/tag/v5.0.1)
+9. [注意！进群请先行修改楼户号。](https://h5.moo-e.com/roomis/)
+10. [react-redux v8](https://github.com/reduxjs/react-redux/releases/tag/v8.0.0)
+11. [React 18 Quick Guide & Core Concepts Explained](https://dev.to/shrutikapoor08/react-18-quick-guide-core-concepts-explained-519p)
+
 ## [第十八期](./docs/%E7%AC%AC%E5%8D%81%E5%85%AB%E6%9C%9F.md)
 1. [私有属性的 6 种实现方式](https://mp.weixin.qq.com/s/SusZu6rdVijZ-6seg9oa0Q)
 2. [What's new in ECMAScript 2022](https://pawelgrzybek.com/whats-new-in-ecmascript-2022/)
