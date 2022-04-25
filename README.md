@@ -1,6 +1,22 @@
 # front end weekly
 
 记录一周以来的前沿技术新闻看到的好的文章
+## [第二十期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9C%9F.md)
+1. [chrome 实时字幕](https://support.google.com/chrome/answer/10538231?hl=en)
+2. [react-query v3.35.0](https://github.com/tannerlinsley/react-query/releases/tag/v3.35.0)
+3. [redux v4.2.0](https://github.com/reduxjs/redux/releases/tag/v4.2.0)
+4. [前端大概要知道的 AST](https://juejin.cn/post/7087075805884809252)
+5. [Jotai 如何指定包的入口](https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/)
+6. [隔离食用手册](https://cook.yunyoujun.cn/)
+7. [terminal 入门](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
+8. [node v18](https://nodejs.org/dist/latest-v18.x/docs/api/assert.html)
+9. [Hydration 是纯粹的开销](https://www.builder.io/blog/hydration-is-pure-overhead)
+10. [如何使用 JS 实现一个 HTML 解析器
+](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg%3D%3D&mid=2247495537&idx=1&sn=c8d0ef67964f583317add7d1cf4501e3)
+11. [Mitosis 入门](https://www.builder.io/blog/mitosis-a-quick-guide)
+12. [Storybook Lazy Compilation for Webpack](https://storybook.js.org/blog/storybook-lazy-compilation-for-webpack/)
+13. [Redux Toolkit（RTK） 的 Why 和 How](https://redux.js.org/introduction/why-rtk-is-redux-today)
+14. [避免使用 `npm link` 的 4 个理由](https://hirok.io/posts/avoid-npm-link)
 
 ## [第十九期](./docs/%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
 1. [TypeScript 4.7 beta ](https://mp.weixin.qq.com/s/JrLUIKW0HnOfZu1ROrTsNw)
