@@ -1,6 +1,14 @@
 # front end weekly
 
 记录一周以来的前沿技术新闻看到的好的文章
+## [第二十一期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9C%9F.md)
+1. [HTTPie 是如何丢失 5.4 万 Star 的](https://icloudnative.io/posts/how-we-lost-54k-github-stars/)
+2. [antd v4.20.0](https://github.com/ant-design/ant-design/releases/tag/4.20.0)
+3. [Jest Preview](https://github.com/nvh95/jest-preview)
+4. [手写 Bundler](https://cpojer.net/posts/building-a-javascript-bundler#execute-our-bundle-using-a-runtime)
+5. [react 18.1](https://github.com/facebook/react/releases)
+6. [JavaScript 数组新增 4 个非破坏性方法！](https://mp.weixin.qq.com/s/zS7ny0JxuOoityqp5w-Vyw)
+7. [悄悄告诉你：React18文档里写错的地方](https://mp.weixin.qq.com/s/rb5qRsxmfG2bmYKRezX3OA)
 ## [第二十期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9C%9F.md)
 1. [chrome 实时字幕](https://support.google.com/chrome/answer/10538231?hl=en)
 2. [react-query v3.35.0](https://github.com/tannerlinsley/react-query/releases/tag/v3.35.0)
