@@ -1,6 +1,17 @@
 # front end weekly
 
 记录一周以来的前沿技术新闻看到的好的文章
+
+## [第二十二期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E6%9C%9F.md)
+1. [useTilg](https://github.com/shuding/tilg)
+2. [pnpm v7](https://github.com/pnpm/pnpm/releases/tag/v7.0.0)
+3. [Effidit 创作助手](https://effidit.qq.com/)
+4. [beeminder 习惯养成工具](https://www.beeminder.com/)
+5. [node 16.15](https://nodejs.org/en/blog/release/v16.15.0/)
+6. [React官方团队出手，补齐原生Hook短板](https://mp.weixin.qq.com/s/J_RUfn-kcynBme5FiE4mRg)
+7. [Bash技巧](https://github.com/onceupon/Bash-Oneliner)
+8. [你不需要 UI 框架](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
+10. [wireit](https://github.com/google/wireit)
 ## [第二十一期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9C%9F.md)
 1. [HTTPie 是如何丢失 5.4 万 Star 的](https://icloudnative.io/posts/how-we-lost-54k-github-stars/)
 2. [antd v4.20.0](https://github.com/ant-design/ant-design/releases/tag/4.20.0)
