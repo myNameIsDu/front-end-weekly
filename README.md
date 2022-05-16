@@ -2,6 +2,15 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第二十三期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%9C%9F.md)
+1. [DevTools 中的新功能 (Chrome 102)](https://developer.chrome.com/en/blog/new-in-devtools-102/)
+2. [Storybook 性能: webpack vs vite](https://storybook.js.org/blog/storybook-performance-from-webpack-to-vite/)
+3. [TypeScript 4.7 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-rc/)
+4. [unimported](https://github.com/smeijer/unimported)
+5. [ts: 接收任何string 但是指定提示](https://twitter.com/diegohaz/status/1524257274012876801)
+6. [Find commands at the speed of thought](https://www.commands.dev/)
+7. [State of CSS 2022](https://web.dev/state-of-css-2022/#2022-and-beyond)
+
 ## [第二十二期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E6%9C%9F.md)
 1. [useTilg](https://github.com/shuding/tilg)
 2. [pnpm v7](https://github.com/pnpm/pnpm/releases/tag/v7.0.0)
