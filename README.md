@@ -2,6 +2,14 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第二十四期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
+1. [Zustand, Jotai, Valtio](https://react-community-tools-practices-cheatsheet.netlify.app/state-management/poimandres/#differences-between-valtio-and-mobx)
+2. [一文看透 Module Federation](https://mp.weixin.qq.com/s/WCQvPbd_w8P-Tn36Sc0SXQ)
+3. [The Complete Modern React Developer 2022](https://andrewbaisden.hashnode.dev/the-complete-modern-react-developer-2022)
+4. [从 Turborepo 看 Monorepo 工具的任务编排能力](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA%3D%3D&mid=2247497447&idx=1&sn=ec7dfca8e0a1034d08097bcd7805b855#rd)
+5. [Side Project 指南](https://sideproject.guide/)
+6. [关于px和可访问性](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+
 ## [第二十三期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%9C%9F.md)
 1. [DevTools 中的新功能 (Chrome 102)](https://developer.chrome.com/en/blog/new-in-devtools-102/)
 2. [Storybook 性能: webpack vs vite](https://storybook.js.org/blog/storybook-performance-from-webpack-to-vite/)
@@ -276,3 +284,4 @@
 3. React + TypeScript Cheat Sheet
 4. css reset
 5. DevTools 的新增功能（Chrome 97）
+
