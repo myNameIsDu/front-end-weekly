@@ -2,6 +2,13 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第二十五期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%9C%9F.md)
+1. [React 并发渲染的前世今生](https://mp.weixin.qq.com/s/01sTK6w4BFUzoRc2NKCs1w)
+2. [Mini Next.js](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)
+3. [Master Styles](https://docs.master.co/styles/setup)
+4. [Next.js Layout](https://nextjs.org/blog/layouts-rfc)
+5. [typescript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/)
+
 ## [第二十四期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
 1. [Zustand, Jotai, Valtio](https://react-community-tools-practices-cheatsheet.netlify.app/state-management/poimandres/#differences-between-valtio-and-mobx)
 2. [一文看透 Module Federation](https://mp.weixin.qq.com/s/WCQvPbd_w8P-Tn36Sc0SXQ)
