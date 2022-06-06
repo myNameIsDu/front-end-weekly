@@ -1,6 +1,14 @@
 # front end weekly
 
 记录一周以来的前沿技术新闻看到的好的文章
+## [第二十六期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E6%9C%9F.md)
+1. [lerna 复活](https://github.com/lerna/lerna/issues/3121)
+2. [kbar](https://github.com/timc1/kbar)
+3. [DeepL](https://chrome.google.com/webstore/detail/deepl-translate-beta-vers/cofdbpoegempjloogbagkncekinflcnj)
+4. [网盘直链下载助手](https://github.com/syhyz1990/baiduyun)
+5. [8个 html 技巧](https://dev.to/babib/7-shocking-html-tips-you-probably-dont-know-about-ggd)
+6. [Framer Motion vs. Motion One](https://motion.dev/blog/should-you-use-framer-motion-or-motion-one)
+8. [Monorepos](https://www.robinwieruch.de/javascript-monorepos/)
 
 ## [第二十五期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%9C%9F.md)
 1. [React 并发渲染的前世今生](https://mp.weixin.qq.com/s/01sTK6w4BFUzoRc2NKCs1w)
@@ -176,6 +184,8 @@
 6. [Babel v7.17.0 ](https://babeljs.io/blog/2022/02/02/7.17.0)
 7. [fetch in node](https://github.com/nodejs/node/pull/41749)
 8. [DevTools for Tailwind](https://devtoolsfortailwind.com/)
+
+
 ## [第九期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
 1. [浅谈 Node.js 热更新](https://zhuanlan.zhihu.com/p/460359101)
 2. [原作者出局，Faker.js已被社区控制](https://zhuanlan.zhihu.com/p/459346956)
