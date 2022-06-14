@@ -1,6 +1,15 @@
 # front end weekly
 
 记录一周以来的前沿技术新闻看到的好的文章
+
+## [第二十七期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E6%9C%9F.md)
+1. [携程机票前端Svelte生产实践](https://mp.weixin.qq.com/s/QWwb8PXtdJJUKyicHRmBkw)
+2. [Redwood in 100 Seconds](https://www.youtube.com/watch?v=o5Mwa_TJ3HM)
+3. [Remix Flat Routes](https://github.com/kiliman/remix-flat-routes)
+4. [qnm](https://github.com/ranyitz/qnm)
+5. [Plasmo](https://github.com/PlasmoHQ/plasmo)
+6. [使用 Playwright 自动化测试 Web 应用程序](https://egghead.io/courses/use-playwright-to-test-and-automate-web-applications-74b97e59)
+
 ## [第二十六期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E6%9C%9F.md)
 1. [lerna 复活](https://github.com/lerna/lerna/issues/3121)
 2. [kbar](https://github.com/timc1/kbar)
