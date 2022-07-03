@@ -2,6 +2,17 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第二十八期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F.md)
+1. [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
+2. [面试面试官](https://github.com/readme/guides/technical-interviews)
+3. [2022 年, 入坑推荐](https://www.zhihu.com/question/530099939/answer/2459663651)
+4. [创建和使用 git 补丁](https://levelup.gitconnected.com/how-to-use-git-patch-effectively-98650a631bdf)
+5. [创建和使用 git 补丁](https://levelup.gitconnected.com/how-to-use-git-patch-effectively-98650a631bdf)
+6. [用中文浏览国外社交媒体里的热门讨论](https://www.buzzing.cc/)
+7. [TypeScript 4.8 beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-beta/)
+8. [24个防御性 css 技巧](https://defensivecss.dev/)
+
+
 ## [第二十七期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E6%9C%9F.md)
 1. [携程机票前端Svelte生产实践](https://mp.weixin.qq.com/s/QWwb8PXtdJJUKyicHRmBkw)
 2. [Redwood in 100 Seconds](https://www.youtube.com/watch?v=o5Mwa_TJ3HM)
