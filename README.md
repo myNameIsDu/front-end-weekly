@@ -1,6 +1,12 @@
 # front end weekly
 
 记录一周以来的前沿技术新闻看到的好的文章
+## [第二十九期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
+1. [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect#adjusting-some-state-when-a-prop-changes)
+2. [JavaScript equality 速查表](https://dorey.github.io/JavaScript-Equality-Table/)
+3. [在 Node.js 上使用文件系统](https://2ality.com/2022/06/nodejs-file-system.html#important-classes)
+4. [Remix 数据流](https://remix.run/blog/remix-data-flow)
+5. [Oh Shit, Git!?!](https://ohshitgit.com/zh)
 
 ## [第二十八期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F.md)
 1. [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
