@@ -1,6 +1,13 @@
 # front end weekly
 
 记录一周以来的前沿技术新闻看到的好的文章
+
+## [第三十期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E6%9C%9F.md)
+1. [Jest 实战指南(小册)](https://github.yanhaixiang.com/jest-tutorial/)
+2. [JavaScript心智模型(小册)](https://sudongyuer.github.io/javascript-mental-models/)
+3. [ESLint 通关小册](https://sudongyuer.github.io/learn-eslint/guide/%E5%B0%8F%E5%86%8C%E7%AE%80%E4%BB%8B.html)
+4. [bun](https://bun.sh/)
+
 ## [第二十九期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
 1. [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect#adjusting-some-state-when-a-prop-changes)
 2. [JavaScript equality 速查表](https://dorey.github.io/JavaScript-Equality-Table/)
