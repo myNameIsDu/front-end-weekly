@@ -2,6 +2,16 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十一期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E6%9C%9F.md)
+1. [由自定义属性驱动的可变单位](https://www.bram.us/2022/07/08/the-future-of-css-variable-units-powered-by-custom-properties/)
+2. [为什么DRY是最被高估的编程原则？](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
+3. [14 种有用的 JavaScript 正则化方法](https://blog.bitsrc.io/14-commonly-used-regularization-methods-b97db6956ac4)
+4. [NestJS v9](https://trilon.io/blog/nestjs-9-is-now-available#REPL-read-eval-print-loop-)
+5. [我要去哪里？- 写在我的 30 岁](https://mp.weixin.qq.com/s/V8Plewc4OlJq5ViguLCa5A)
+6. [语句和表达式](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
+7. [构建面向未来的前端架构](https://frontendmastery.com/posts/building-future-facing-frontend-architectures/#breaking-down-monolithic-components)
+
+
 ## [第三十期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E6%9C%9F.md)
 1. [Jest 实战指南(小册)](https://github.yanhaixiang.com/jest-tutorial/)
 2. [JavaScript心智模型(小册)](https://sudongyuer.github.io/javascript-mental-models/)
