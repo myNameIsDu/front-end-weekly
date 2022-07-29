@@ -2,6 +2,12 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十二期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C.md)
+1. [React 中的 Actionless 和 Stateless reducer](https://julesblom.com/writing/actionless-and-stateless-reducers#increment-reducer)
+2. [如何坚持写技术博客？](https://zhuanlan.zhihu.com/p/497150220)
+3. [可能改变前端工程化未来的特性：ESM Loader Hooks](https://mp.weixin.qq.com/s?__biz=MzkzMjIxNTcyMA%3D%3D&mid=2247490796&idx=1&sn=ceaf8c0292012e56f35ab1205f9be330#wechat_redirect)
+4. [Fresh: Blazingly Fast React](https://www.youtube.com/watch?v=Q4dos7-gX68)
+
 ## [第三十一期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E6%9C%9F.md)
 1. [由自定义属性驱动的可变单位](https://www.bram.us/2022/07/08/the-future-of-css-variable-units-powered-by-custom-properties/)
 2. [为什么DRY是最被高估的编程原则？](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
