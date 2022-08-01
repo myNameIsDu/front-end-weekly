@@ -2,6 +2,13 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十三期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E6%9C%9F.md)
+1. [dax - Deno 的跨平台 shell 工具](https://david.deno.dev/posts/dax/)
+2. [在 JavaScript 中实现大文件的并发下载](https://blog.bitsrc.io/implement-concurrent-download-of-large-files-in-javascript-4e94202c5373)
+3. [HypeScript](https://github.com/ronami/HypeScript)
+4. [PicHub](https://github.com/lewkamtao/PicHub)
+5. [TanStack Query v4](https://tanstack.com/blog/announcing-tanstack-query-v4)
+
 ## [第三十二期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C.md)
 1. [React 中的 Actionless 和 Stateless reducer](https://julesblom.com/writing/actionless-and-stateless-reducers#increment-reducer)
 2. [如何坚持写技术博客？](https://zhuanlan.zhihu.com/p/497150220)
