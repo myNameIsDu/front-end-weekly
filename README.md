@@ -2,6 +2,18 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十四期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
+1. [DNS 服务器](https://www.ruanyifeng.com/blog/2022/08/dns-query.html)
+2. [DevTools 中的新功能 (Chrome 104)](https://developer.chrome.com/blog/new-in-devtools-104/)
+3. [zod](https://github.com/colinhacks/zod)
+4. [Deno Runtime定制](https://linux-china.davao.page/blog/2022-07-31-deno-customization/)
+5. [前端构建效率优化之路](https://mp.weixin.qq.com/s/UZ-ytVffpCnyrvm_bkgiUA)
+6. [独立的 transform 属性](https://web.dev/css-individual-transform-properties/)
+7. [新拾取的 6 个习惯和方法](https://mp.weixin.qq.com/s?__biz=MjM5NDgyODI4MQ%3D%3D&mid=2247485111&idx=1&sn=fac98125bb7b4659058fd4d0f17df4d8)
+8. [React 重新渲染指南](https://www.developerway.com/posts/react-re-renders-guide)
+9. [无界微前端方案](https://juejin.cn/post/7125646119727529992)
+
+
 ## [第三十三期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E6%9C%9F.md)
 1. [dax - Deno 的跨平台 shell 工具](https://david.deno.dev/posts/dax/)
 2. [在 JavaScript 中实现大文件的并发下载](https://blog.bitsrc.io/implement-concurrent-download-of-large-files-in-javascript-4e94202c5373)
@@ -321,7 +333,7 @@
 14. 每个开发者都应该避免的常见的 npm 错误
 15. 在 Node.js 中记录日志的最佳实践
 
-## [第三期](./docs/%E7%AC%AC%E4%BA%8C%E6%9C%9F.md)
+## [第三期](./docs/%E7%AC%AC%E4%B8%89%E6%9C%9F.md)
 1. Remix Technical Explanation
 2. React Conf 2021
 3. Vercel 收购 Turborepo
