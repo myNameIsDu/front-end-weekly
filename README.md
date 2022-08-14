@@ -2,6 +2,16 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十五期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E6%9C%9F.md)
+1. [vscode 1.70](https://code.visualstudio.com/updates/v1_70)
+2. [五千字深度解读 Vite 的依赖扫描](https://juejin.cn/post/7129160452377935903)
+3. [Mailing](https://github.com/sofn-xyz/mailing)
+4. [Docsy 0. 4, Docusaurus 2.0, Astro 1.0](https://linux-china.davao.page/blog/2022-08-09-docy-vs-docusaurus-vs-astro/)
+5. [Bundle-less 的思考和实践分享](https://mp.weixin.qq.com/s/nk5SN8AKwyFkUTEOiLCBdQ)
+6. [为什么有些人用一年时间获得了你十年的工作经验？（演讲：学习曲线和Hacking大脑，谈终身学习如何改变你的人生](https://www.youtube.com/watch?v=Pr4Sw6cYAfU)
+7. [cmdk](https://github.com/pacocoursey/cmdk)
+8. [@napi-rs/clipboard](https://github.com/Brooooooklyn/Clipboard)
+
 ## [第三十四期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
 1. [DNS 服务器](https://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 2. [DevTools 中的新功能 (Chrome 104)](https://developer.chrome.com/blog/new-in-devtools-104/)
