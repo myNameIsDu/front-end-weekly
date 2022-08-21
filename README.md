@@ -3,6 +3,7 @@
 记录一周以来的前沿技术新闻看到的好的文章
 
 ## [第三十五期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E6%9C%9F.md)
+
 1. [vscode 1.70](https://code.visualstudio.com/updates/v1_70)
 2. [五千字深度解读 Vite 的依赖扫描](https://juejin.cn/post/7129160452377935903)
 3. [Mailing](https://github.com/sofn-xyz/mailing)
@@ -13,6 +14,7 @@
 8. [@napi-rs/clipboard](https://github.com/Brooooooklyn/Clipboard)
 
 ## [第三十四期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
+
 1. [DNS 服务器](https://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 2. [DevTools 中的新功能 (Chrome 104)](https://developer.chrome.com/blog/new-in-devtools-104/)
 3. [zod](https://github.com/colinhacks/zod)
@@ -23,8 +25,8 @@
 8. [React 重新渲染指南](https://www.developerway.com/posts/react-re-renders-guide)
 9. [无界微前端方案](https://juejin.cn/post/7125646119727529992)
 
-
 ## [第三十三期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E6%9C%9F.md)
+
 1. [dax - Deno 的跨平台 shell 工具](https://david.deno.dev/posts/dax/)
 2. [在 JavaScript 中实现大文件的并发下载](https://blog.bitsrc.io/implement-concurrent-download-of-large-files-in-javascript-4e94202c5373)
 3. [HypeScript](https://github.com/ronami/HypeScript)
@@ -32,12 +34,14 @@
 5. [TanStack Query v4](https://tanstack.com/blog/announcing-tanstack-query-v4)
 
 ## [第三十二期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C.md)
+
 1. [React 中的 Actionless 和 Stateless reducer](https://julesblom.com/writing/actionless-and-stateless-reducers#increment-reducer)
 2. [如何坚持写技术博客？](https://zhuanlan.zhihu.com/p/497150220)
 3. [可能改变前端工程化未来的特性：ESM Loader Hooks](https://mp.weixin.qq.com/s?__biz=MzkzMjIxNTcyMA%3D%3D&mid=2247490796&idx=1&sn=ceaf8c0292012e56f35ab1205f9be330#wechat_redirect)
 4. [Fresh: Blazingly Fast React](https://www.youtube.com/watch?v=Q4dos7-gX68)
 
 ## [第三十一期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E6%9C%9F.md)
+
 1. [由自定义属性驱动的可变单位](https://www.bram.us/2022/07/08/the-future-of-css-variable-units-powered-by-custom-properties/)
 2. [为什么DRY是最被高估的编程原则？](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 3. [14 种有用的 JavaScript 正则化方法](https://blog.bitsrc.io/14-commonly-used-regularization-methods-b97db6956ac4)
@@ -46,14 +50,15 @@
 6. [语句和表达式](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
 7. [构建面向未来的前端架构](https://frontendmastery.com/posts/building-future-facing-frontend-architectures/#breaking-down-monolithic-components)
 
-
 ## [第三十期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E6%9C%9F.md)
+
 1. [Jest 实战指南(小册)](https://github.yanhaixiang.com/jest-tutorial/)
 2. [JavaScript心智模型(小册)](https://sudongyuer.github.io/javascript-mental-models/)
 3. [ESLint 通关小册](https://sudongyuer.github.io/learn-eslint/guide/%E5%B0%8F%E5%86%8C%E7%AE%80%E4%BB%8B.html)
 4. [bun](https://bun.sh/)
 
 ## [第二十九期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
+
 1. [You Might Not Need an Effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect#adjusting-some-state-when-a-prop-changes)
 2. [JavaScript equality 速查表](https://dorey.github.io/JavaScript-Equality-Table/)
 3. [在 Node.js 上使用文件系统](https://2ality.com/2022/06/nodejs-file-system.html#important-classes)
@@ -61,6 +66,7 @@
 5. [Oh Shit, Git!?!](https://ohshitgit.com/zh)
 
 ## [第二十八期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E6%9C%9F.md)
+
 1. [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
 2. [面试面试官](https://github.com/readme/guides/technical-interviews)
 3. [2022 年, 入坑推荐](https://www.zhihu.com/question/530099939/answer/2459663651)
@@ -70,8 +76,8 @@
 7. [TypeScript 4.8 beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-beta/)
 8. [24个防御性 css 技巧](https://defensivecss.dev/)
 
-
 ## [第二十七期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E6%9C%9F.md)
+
 1. [携程机票前端Svelte生产实践](https://mp.weixin.qq.com/s/QWwb8PXtdJJUKyicHRmBkw)
 2. [Redwood in 100 Seconds](https://www.youtube.com/watch?v=o5Mwa_TJ3HM)
 3. [Remix Flat Routes](https://github.com/kiliman/remix-flat-routes)
@@ -80,6 +86,7 @@
 6. [使用 Playwright 自动化测试 Web 应用程序](https://egghead.io/courses/use-playwright-to-test-and-automate-web-applications-74b97e59)
 
 ## [第二十六期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E6%9C%9F.md)
+
 1. [lerna 复活](https://github.com/lerna/lerna/issues/3121)
 2. [kbar](https://github.com/timc1/kbar)
 3. [DeepL](https://chrome.google.com/webstore/detail/deepl-translate-beta-vers/cofdbpoegempjloogbagkncekinflcnj)
@@ -89,6 +96,7 @@
 8. [Monorepos](https://www.robinwieruch.de/javascript-monorepos/)
 
 ## [第二十五期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%9C%9F.md)
+
 1. [React 并发渲染的前世今生](https://mp.weixin.qq.com/s/01sTK6w4BFUzoRc2NKCs1w)
 2. [Mini Next.js](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)
 3. [Master Styles](https://docs.master.co/styles/setup)
@@ -96,6 +104,7 @@
 5. [typescript 4.7](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/)
 
 ## [第二十四期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
+
 1. [Zustand, Jotai, Valtio](https://react-community-tools-practices-cheatsheet.netlify.app/state-management/poimandres/#differences-between-valtio-and-mobx)
 2. [一文看透 Module Federation](https://mp.weixin.qq.com/s/WCQvPbd_w8P-Tn36Sc0SXQ)
 3. [The Complete Modern React Developer 2022](https://andrewbaisden.hashnode.dev/the-complete-modern-react-developer-2022)
@@ -104,6 +113,7 @@
 6. [关于px和可访问性](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 
 ## [第二十三期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%9C%9F.md)
+
 1. [DevTools 中的新功能 (Chrome 102)](https://developer.chrome.com/en/blog/new-in-devtools-102/)
 2. [Storybook 性能: webpack vs vite](https://storybook.js.org/blog/storybook-performance-from-webpack-to-vite/)
 3. [TypeScript 4.7 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-rc/)
@@ -113,6 +123,7 @@
 7. [State of CSS 2022](https://web.dev/state-of-css-2022/#2022-and-beyond)
 
 ## [第二十二期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E6%9C%9F.md)
+
 1. [useTilg](https://github.com/shuding/tilg)
 2. [pnpm v7](https://github.com/pnpm/pnpm/releases/tag/v7.0.0)
 3. [Effidit 创作助手](https://effidit.qq.com/)
@@ -122,7 +133,9 @@
 7. [Bash技巧](https://github.com/onceupon/Bash-Oneliner)
 8. [你不需要 UI 框架](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
 10. [wireit](https://github.com/google/wireit)
+
 ## [第二十一期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9C%9F.md)
+
 1. [HTTPie 是如何丢失 5.4 万 Star 的](https://icloudnative.io/posts/how-we-lost-54k-github-stars/)
 2. [antd v4.20.0](https://github.com/ant-design/ant-design/releases/tag/4.20.0)
 3. [Jest Preview](https://github.com/nvh95/jest-preview)
@@ -130,7 +143,9 @@
 5. [react 18.1](https://github.com/facebook/react/releases)
 6. [JavaScript 数组新增 4 个非破坏性方法！](https://mp.weixin.qq.com/s/zS7ny0JxuOoityqp5w-Vyw)
 7. [悄悄告诉你：React18文档里写错的地方](https://mp.weixin.qq.com/s/rb5qRsxmfG2bmYKRezX3OA)
+
 ## [第二十期](./docs/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9C%9F.md)
+
 1. [chrome 实时字幕](https://support.google.com/chrome/answer/10538231?hl=en)
 2. [react-query v3.35.0](https://github.com/tannerlinsley/react-query/releases/tag/v3.35.0)
 3. [redux v4.2.0](https://github.com/reduxjs/redux/releases/tag/v4.2.0)
@@ -148,7 +163,8 @@
 14. [避免使用 `npm link` 的 4 个理由](https://hirok.io/posts/avoid-npm-link)
 
 ## [第十九期](./docs/%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
-1. [TypeScript 4.7 beta ](https://mp.weixin.qq.com/s/JrLUIKW0HnOfZu1ROrTsNw)
+
+1. [TypeScript 4.7 beta](https://mp.weixin.qq.com/s/JrLUIKW0HnOfZu1ROrTsNw)
 2. [Handling date strings in TypeScript](https://blog.logrocket.com/handing-date-strings-typescript/)
 3. [react组合模式](https://www.developerway.com/posts/components-composition-how-to-get-it-right)
 4. [TS实现tokenizer/parser/interpreter](https://github.com/anuraghazra/typelevel-parser)
@@ -162,13 +178,16 @@
 12. [Lexical](https://lexical.dev/docs/intro)
 
 ## [第十八期](./docs/%E7%AC%AC%E5%8D%81%E5%85%AB%E6%9C%9F.md)
+
 1. [私有属性的 6 种实现方式](https://mp.weixin.qq.com/s/SusZu6rdVijZ-6seg9oa0Q)
 2. [What's new in ECMAScript 2022](https://pawelgrzybek.com/whats-new-in-ecmascript-2022/)
 3. [ShadowRealms](https://2ality.com/2022/04/shadow-realms.html)
 4. [vs code March 2022](https://code.visualstudio.com/updates/v1_66#_languages)
 5. [pnpm v7 升级经验](https://blog.csdn.net/qq_21567385/article/details/123948061)
 6. [Remix Routes](https://www.smashingmagazine.com/2022/03/remix-routes-demystified/)
+
 ## [第十七期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%83%E6%9C%9F.md)
+
 1. [一文颠覆大众对闭包的认知](https://juejin.cn/post/7079995358624874509)
 2. [用typescript从字符串提取params类型](https://lihautan.com/extract-parameters-type-from-string-literal-types-with-typescript/)
 3. [防御性设计和开发](https://mp.weixin.qq.com/s/G4pME9xFHdWnFckgytnofQ)
@@ -182,6 +201,7 @@
 11. [20 个程序员高效贴士](https://medium.com/actiresults/20-productivity-tips-from-developers-to-developers-138f8ec6200c)
 
 ## [第十六期](./docs/%E7%AC%AC%E5%8D%81%E5%85%AD%E6%9C%9F.md)
+
 1. [Vercel 支持 pnpm](https://vercel.com/changelog/projects-using-pnpm-can-now-be-deployed-with-zero-configuration)
 2. [Remixing React Router](https://remix.run/blog/remixing-react-router#component-fetching-and-render-fetch-chains)
 3. [rendering on web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web#rehydration)
@@ -194,9 +214,10 @@
 10. [ref代替useMemo和useCallback](https://www.zhenghao.io/posts/memo-or-not)
 11. [JSON 技巧](https://dev.to/siddharthshyniben/5-secret-features-of-json-you-didnt-know-about-5bbg)
 12. [typesVersions](https://antfu.menotes#types-for-sub-modules)
-11. [RFC: Intent to Ship React 18 ](https://github.com/reactjs/rfcs/blob/react-18/text/0000-react-18.md)
+11. [RFC: Intent to Ship React 18](https://github.com/reactjs/rfcs/blob/react-18/text/0000-react-18.md)
 
 ## [第十五期](./docs/%E7%AC%AC%E5%8D%81%E4%BA%94%E6%9C%9F.md)
+
 1. [Vue和NuxtLabs核心成员Anthony Fu的开源人生](https://www.bilibili.com/video/BV1eS4y1S7zB)
 2. [Safari 15.4 中的新 WebKit 功能](https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/)
 3. [Mintlify](https://www.mintlify.com/)
@@ -210,6 +231,7 @@
 11. [Remix Stacks](https://remix.run/blog/remix-stacks)
 
 ## [第十四期](./docs/%E7%AC%AC%E5%8D%81%E5%9B%9B%E6%9C%9F.md)
+
 1. [Rebuilding Babel: The Tokenizer](https://www.nan.fyi/tokenizer)
 2. [Building a Debugger: Code Analysis](https://www.nan.fyi/debugger)
 3. [How To Develop A Text Editor For The Web](https://www.smashingmagazine.com/2022/02/develop-text-editor-web/)
@@ -218,13 +240,14 @@
 6. [推荐一个生产环境 debugger 技巧](https://mp.weixin.qq.com/s/YLdHyX0lh123dqHxijlM2w)
 7. [能用 AST 搞明白的正则语法，就不需要看文档](https://juejin.cn/post/7072714295410163720)
 8. [React内部让人迷惑的性能优化策略](https://mp.weixin.qq.com/s/0W75vJ0CXt3JR7ua8ZOuFA)
-9. [chrome 简化 UA ](https://developer.chrome.com/blog/deps-rems-100)
+9. [chrome 简化 UA](https://developer.chrome.com/blog/deps-rems-100)
 10. [javascript 类型提案](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
 11. [Headless](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
 12. [Solid.js就是我一直希望React成为的样子](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
 
 ## [第十三期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%89%E6%9C%9F.md)
-1. [100 seconds explain linux directories ](https://www.youtube.com/watch?v=42iQKuQodW4)
+
+1. [100 seconds explain linux directories](https://www.youtube.com/watch?v=42iQKuQodW4)
 2. [Understanding flex-grow, flex-shrink, and flex-basis
 ](https://css-tricks.com/understanding-flex-grow-flex-shrink-and-flex-basis/)
 3. [A new year, a new MDN](https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/)
@@ -234,6 +257,7 @@
 7. [Explain the First 10 Lines of Twitter’s Source Code to Me](https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/)
 
 ## [第十二期](./docs/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%9C%9F.md)
+
 1. [JIT 与 AOT](https://github.com/gatsbyjs/gatsby/discussions/34613)
 2. [Parcel CSS](https://blog.logrocket.com/getting-started-parcel-css/)
 3. [github Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
@@ -244,6 +268,7 @@
 8. [gti](https://r-wos.org/hacks/gti)
 
 ## [第十一期](./docs/%E7%AC%AC%E5%8D%81%E4%B8%80%E6%9C%9F.md)
+
 1. [git switch -c](https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/)
 2. [chrome 工作原理](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 3. [Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
@@ -254,17 +279,18 @@
 8. [Idea: Flat file system for file-based routing](https://gist.github.com/jamiebuilds/86d467ee4353cb316edce8e69ad19237)
 
 ## [第十期](./docs/%E7%AC%AC%E5%8D%81%E6%9C%9F.md)
+
 1. [MDX 2](https://mdxjs.com/blog/v2/)
 2. [What You Should Definitely Look Out For In React In 2022](https://www.chakshunyu.com/blog/what-you-should-definitely-look-out-for-in-react-in-2022/)
 3. [Creating a Schema-Based Form System](https://www.taniarascia.com/schema-based-form-system/)
 4. [How the Notion API Powers My Blog](https://www.coryetzkorn.com/blog/how-the-notion-api-powers-my-blog)
 5. [sponsor only repositories](https://github.blog/2022-02-02-new-sponsors-only-repositories-custom-amounts-and-more/)
-6. [Babel v7.17.0 ](https://babeljs.io/blog/2022/02/02/7.17.0)
+6. [Babel v7.17.0](https://babeljs.io/blog/2022/02/02/7.17.0)
 7. [fetch in node](https://github.com/nodejs/node/pull/41749)
 8. [DevTools for Tailwind](https://devtoolsfortailwind.com/)
 
-
 ## [第九期](./docs/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
+
 1. [浅谈 Node.js 热更新](https://zhuanlan.zhihu.com/p/460359101)
 2. [原作者出局，Faker.js已被社区控制](https://zhuanlan.zhihu.com/p/459346956)
 3. [60+ VSCode 插件](https://mp.weixin.qq.com/s/AOCTMItp5l7Hi0QJo0mhqg)
@@ -275,8 +301,8 @@
 8. [比 Vite 还快的 MFSU](https://github.com/webpack/webpack/issues/14893)
 9. [Umi 4 RC 发布](https://mp.weixin.qq.com/s/PwoD8rvmQpaTlaz5ECkB6w)
 
-
 ## [第八期](./docs/%E7%AC%AC%E5%85%AB%E6%9C%9F.md)
+
 1. webpack-deadcode-plugin
 2. Remix vs. Next.js vs. SvelteKit
 3. CSS in 2022
@@ -292,8 +318,8 @@
 13. Container Query 补丁
 14. npkill
 
-
 ## [第七期](./docs/%E7%AC%AC%E4%B8%83%E6%9C%9F.md)
+
 1. 2021 JavaScript Rising Stars
 2. string 如何分配内存？用 DevTools 来分析
 3. How Valtio Proxy State Works (Vanilla Part)
@@ -309,11 +335,13 @@
 13. 从实现原理看低代码
 
 ## [第六期](./docs/%E7%AC%AC%E5%85%AD%E6%9C%9F.md)
+
 1. Denigma
 2. Lazydocker
 3. 云谦的周刊总结
 
 ## [第五期](./docs/%E7%AC%AC%E5%9B%9B%E6%9C%9F.md)
+
 1. A Whole Website in a Single HTML File
 2. Patterns
 3. Milkdown
@@ -324,9 +352,10 @@
 8. container query
 9. http/3 is fast
 10. 浏览器渲染魔法之合成层
-11.  Chrome Devtools 的 Coverage 可视化
+11. Chrome Devtools 的 Coverage 可视化
 
 ## [第四期](./docs/%E7%AC%AC%E5%9B%9B%E6%9C%9F.md)
+
 1. github 总结
 2. 年底的web基础庆典
 3. Create React App 5
@@ -344,6 +373,7 @@
 15. 在 Node.js 中记录日志的最佳实践
 
 ## [第三期](./docs/%E7%AC%AC%E4%B8%89%E6%9C%9F.md)
+
 1. Remix Technical Explanation
 2. React Conf 2021
 3. Vercel 收购 Turborepo
@@ -356,8 +386,8 @@
 10. Rough.js
 11. doodle.css
 
-
 ## [第二期](./docs/%E7%AC%AC%E4%BA%8C%E6%9C%9F.md)
+
 1. 2021 Web Almanac
 2. Fleet
 3. sandpack 开源了
@@ -374,9 +404,9 @@
 14. css长短内容方案
 
 ## [第一期](./docs/第一期.md)
+
 1. Remix 1
 2. Prettier 2.5
 3. React + TypeScript Cheat Sheet
 4. css reset
 5. DevTools 的新增功能（Chrome 97）
-
