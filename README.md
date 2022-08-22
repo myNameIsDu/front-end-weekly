@@ -2,6 +2,15 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十六期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AD%E6%9C%9F.md)
+
+1. [Astro 的正式发布给前端界带来了什么](https://mp.weixin.qq.com/s/G7b9Dv5xEvnM0AMT1EXKJQ)
+2. [ARCHITECTURE.md](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html)
+3. [fetchpriority调整资源加载优先级](https://addyosmani.com/blog/fetch-priority/)
+4. [Github 实用小技巧](https://xuanwo.io/reports/2022-32/)
+5. [parse5](https://github.com/inikulin/parse5)
+6. [动态生成函数类型重载](https://mp.weixin.qq.com/s/dW9Au8agrxtb7dlByFfHHg)
+
 ## [第三十五期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E6%9C%9F.md)
 
 1. [vscode 1.70](https://code.visualstudio.com/updates/v1_70)
