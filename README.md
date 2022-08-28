@@ -2,6 +2,13 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十七期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%83%E6%9C%9F.md)
+
+1. [深入解读新一代全栈框架 Fresh](https://mp.weixin.qq.com/s/8qNI4a-3P2KId9WRAnz2dw)
+2. [Git：备忘单（高级）](https://dev.to/maxpou/git-cheat-sheet-advanced-3a17)
+3. [TypeScript 4.8](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8/#exclude-globs-auto-import)
+4. [彻底搞懂 Webpack 的 sourcemap 配置原理](https://mp.weixin.qq.com/s/0Sq9Z0i9Q3N0likFlZB0rQ)
+
 ## [第三十六期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AD%E6%9C%9F.md)
 
 1. [Astro 的正式发布给前端界带来了什么](https://mp.weixin.qq.com/s/G7b9Dv5xEvnM0AMT1EXKJQ)
