@@ -2,6 +2,13 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十八期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AB%E6%9C%9F.md)
+
+1. [Installing and running Node.js bin scripts](https://2ality.com/2022/08/installing-nodejs-bin-scripts.html)
+2. [HTTP 的缓存为什么这么设计？](https://mp.weixin.qq.com/s/0P8_lnVf2_zMzIBJ20qajA)
+3. [用 Node.js 手写一个 DNS 服务器](https://mp.weixin.qq.com/s/Gl94ISY5N4BYyYmVT9-QFQ)
+4. [TypeScript 深水区：3 种类型来源和 3 种模块语法](https://mp.weixin.qq.com/s/DAL4_JxE-O-ALXPCStvvGA)
+
 ## [第三十七期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%83%E6%9C%9F.md)
 
 1. [深入解读新一代全栈框架 Fresh](https://mp.weixin.qq.com/s/8qNI4a-3P2KId9WRAnz2dw)
