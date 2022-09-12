@@ -2,6 +2,14 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第三十九期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
+
+1. [vs code 1.71](<https://code.visualstudio.com/updates/v1_71>)
+2. [history.scrollRestoration](https://twitter.com/dan_abramov/status/1568219286744797190)
+3. [Nest 的实现原理？理解了 reflect metadata 就懂了](https://mp.weixin.qq.com/s/ijygSAtDSreop5XExhFjGQ)
+4. [全网最优雅的 React 源码调试方式](https://mp.weixin.qq.com/s/Yfmb11mmvfXg2FlEu7UlXA)
+5. [JavaScript 模块中的默认导出非常糟糕](https://www.lloydatkinson.net/posts/2022/default-exports-in-javascript-modules-are-terrible/)
+
 ## [第三十八期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%85%AB%E6%9C%9F.md)
 
 1. [Installing and running Node.js bin scripts](https://2ality.com/2022/08/installing-nodejs-bin-scripts.html)
