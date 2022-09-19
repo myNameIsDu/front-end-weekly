@@ -2,6 +2,12 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第四十期](./docs/%E7%AC%AC%E5%9B%9B%E5%8D%81%E6%9C%9F.md)
+
+1. [memlab](https://engineering.fb.com/2022/09/12/open-source/memlab/)
+2. [React Router v6.4](https://remix.run/blog/react-router-v6.4)
+3. [Chrome DevTools 106](https://developer.chrome.com/en/blog/new-in-devtools-106/)
+
 ## [第三十九期](./docs/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
 
 1. [vs code 1.71](<https://code.visualstudio.com/updates/v1_71>)
