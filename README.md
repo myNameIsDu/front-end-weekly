@@ -2,6 +2,13 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第四十一期](./docs/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%80%E6%9C%9F.md)
+
+1. [Chrome DevTools 107](https://developer.chrome.com/en/blog/new-in-devtools-107/)
+2. [我是怎么调试 React 项目的](https://mp.weixin.qq.com/s/tyR5vCiZHanXEdDQgdzKTg)
+3. [git gc - 你不需要它](https://donatstudios.com/yagni-git-gc)
+4. [Typescript 4.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/)
+
 ## [第四十期](./docs/%E7%AC%AC%E5%9B%9B%E5%8D%81%E6%9C%9F.md)
 
 1. [memlab](https://engineering.fb.com/2022/09/12/open-source/memlab/)
