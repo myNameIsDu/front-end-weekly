@@ -2,6 +2,12 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第四十二期](./docs/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%BA%8C%E6%9C%9F.md)
+
+1. [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
+2. [为什么我不使用 Prettier](https://antfu.me/posts/why-not-prettier-zh)
+3. [VS Code Community Discussions for Extension Authors](https://code.visualstudio.com/blogs/2022/10/04/vscode-community-discussions)
+
 ## [第四十一期](./docs/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%80%E6%9C%9F.md)
 
 1. [Chrome DevTools 107](https://developer.chrome.com/en/blog/new-in-devtools-107/)
