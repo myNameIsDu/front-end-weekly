@@ -2,6 +2,14 @@
 
 记录一周以来的前沿技术新闻看到的好的文章
 
+## [第四十三期](./docs/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%B8%89%E6%9C%9F.md)
+
+1. [编写更好的错误提示](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+2. [route-list](https://github.com/VladimirMikulic/route-list)
+3. [Turbopack](https://github.com/VladimirMikulic/route-list)
+4. [打开 chrome devtool 的方式](https://developer.chrome.com/en/blog/devtools-tips-15/)
+5. [What's New In DevTools (Chrome 108)](https://developer.chrome.com/en/blog/new-in-devtools-108/)
+
 ## [第四十二期](./docs/%E7%AC%AC%E5%9B%9B%E5%8D%81%E4%BA%8C%E6%9C%9F.md)
 
 1. [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
